@@ -1,0 +1,111 @@
+.static {
+    background-color: rgb(15, 129, 15);
+    width: 80%;
+    height: 510px;
+    margin: auto; 
+}
+
+.absolute {
+    border:4px solid white;
+    background-color: transparent; 
+    position: absolute;
+    height:470px; 
+    width: 75%;
+    top:0;
+    left:0;
+    right:0;
+    bottom:105px;
+    margin: auto; 
+}
+
+.abs_circulo {
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    border: 4px solid white;
+    background: transparent;
+    top:0;
+    left:0;
+    right:10px;
+    bottom:100px;
+    margin: auto; 
+}
+.abs_left {
+    width: 130px;
+    height: 200px;
+    border:4px solid white;
+    background-color: transparent; 
+    position: absolute;
+    top:0;
+    left:0;
+    right:895px;
+    bottom:100px;
+    margin: auto;
+}
+
+.abs_right {
+    width: 130px;
+    height: 200px;
+    border:4px solid white;
+    background-color: transparent; 
+    position: absolute;
+    top:0;
+    left:893px;
+    right:0px;
+    bottom:100px;
+    margin: auto;
+}
+
+.pelotita1 {
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    border: 4px solid rgba(255, 255, 255, 0.781);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.705);
+    background: white;
+    top:0;
+    left:0px;
+    right:770px;
+    bottom:282px;
+    margin: auto;    
+}
+
+.pelotita2 {
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    border: 4px solid rgba(255, 255, 255, 0.781);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.705);
+    background: white;
+    top:0;
+    left:60px;
+    right:0;
+    bottom:350px;
+    margin: auto; 
+}
+
+.pelotita3 {
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    border: 4px solid rgba(255, 255, 255, 0.781);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.705);
+    background: white;
+    top:60px;
+    left:700px;
+    right:0;
+    bottom:5px;
+    margin: auto; 
+}
